@@ -1,2 +1,2 @@
 # GIPA
-Jan 46 ELEC 4700A first PA
+Jan 16 ELEC 4700A first PA
